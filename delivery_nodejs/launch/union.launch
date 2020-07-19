@@ -1,0 +1,6 @@
+<launch>
+  <group>
+    <node pkg="delivery_nodejs" type="app.js" name="menu_service_app"/>
+    <node pkg="delivery_nodejs" type="server.js" name="menu_service_server"/>
+  </group>
+</launch>
