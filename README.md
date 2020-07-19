@@ -17,4 +17,4 @@ cd ~/catkin_ws
 catkin_make
 ```
 ## Running Web Menu
-see [this](./delivery_nodejs/readme.md) to know how to run nodejs service server/client
+see [this](./delivery_nodejs/README.md) to know how to run nodejs service server/client
