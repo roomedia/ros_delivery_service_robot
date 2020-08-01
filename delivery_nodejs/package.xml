@@ -5,7 +5,7 @@
   <description>delivery service robot web menu plate package</description>
   <maintainer email="roomedia@naver.com">EngHyu</maintainer>
   <license>Apache 2.0</license>
-  <url type="website">http://github.com/EngHyu/delivery_robot</url>
+  <url type="website">https://github.com/EngHyu/ros_delivery_service_robot</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
