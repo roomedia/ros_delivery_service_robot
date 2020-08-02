@@ -1,7 +1,6 @@
 #!/usr/bin/env nodemon
 // prepare for ROS and get custom message
 const rosnodejs = require('rosnodejs');
-const { Header } = rosnodejs.require('std_msgs').msg;
 const { PoseStamped } = rosnodejs.require('geometry_msgs').msg;
 const { MenuSelector } = rosnodejs.require('delivery_topics').srv;
 
